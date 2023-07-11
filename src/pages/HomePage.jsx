@@ -19,7 +19,7 @@ export default function HomePage() {
     const promise = api.getHistory(auth);
     promise.then(res => {
       setUser(res.data.name);
-      setList(res.data.list);
+      setList(res.data.list.reverse());
       setTotal(calcTotal(res.data.list));
     });
     promise.catch(err => {
