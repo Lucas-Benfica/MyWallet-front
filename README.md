@@ -18,6 +18,10 @@ O My Wallet foi desenvolvido utilizando as seguintes tecnologias:
 
 - **Controle de Saldo**: O My Wallet realiza automaticamente o cálculo do saldo com base nas entradas e saídas registradas, fornecendo uma visão clara do seu estado financeiro.
 
+## Layout Responsivo
+
+O layout do My Wallet foi inicialmente projetado para um aplicativo móvel, mas pode ser facilmente usado em dispositivos web, proporcionando uma experiência de usuário fluida em diferentes plataformas.
+
 ## Como Utilizar
 
 Acesse o aplicativo em seu navegador em https://my-wallet-front-six-gold.vercel.app
@@ -33,7 +37,6 @@ Certifique-se de ter o Node.js e o npm (ou yarn) instalados em sua máquina ante
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato conosco em lucassoaresbenfica@gmail.com
+Para dúvidas ou sugestões, entre em contato conosco em lucassoaresbenfica@gmail.com.
 
 Aproveite o My Wallet e mantenha suas finanças sob controle!
-
