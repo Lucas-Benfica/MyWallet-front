@@ -29,8 +29,8 @@ Acesse o aplicativo em seu navegador em https://my-wallet-front-six-gold.vercel.
 Ou use na sua máquina
 
 1. Clone este repositório em sua máquina local.
-2. Instale as dependências do projeto usando `npm install` ou `yarn install`.
-3. Inicie o aplicativo com o comando `npm start` ou `yarn start`.
+2. Instale as dependências do projeto usando `npm install`.
+3. Inicie o aplicativo com o comando `npm start`.
 4. Acesse o aplicativo em seu navegador em `http://localhost:3000`.
 
 Certifique-se de ter o Node.js e o npm (ou yarn) instalados em sua máquina antes de iniciar.
