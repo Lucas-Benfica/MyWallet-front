@@ -8,6 +8,8 @@ O My Wallet foi desenvolvido utilizando as seguintes tecnologias:
 
 - Front-end: HTML, CSS, JavaScript e React
 
+Link back-end: https://github.com/Lucas-Benfica/MyWallet-back
+
 ## Funcionalidades Principais
 
 - **Cadastro de Conta**: Você pode criar uma conta pessoal para começar a utilizar o aplicativo.
